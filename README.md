@@ -1,1 +1,2 @@
-# Mars-Rover
+# katas
+A repo to store my katas

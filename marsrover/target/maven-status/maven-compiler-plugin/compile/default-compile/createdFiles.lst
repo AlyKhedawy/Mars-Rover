@@ -1,0 +1,15 @@
+me\katas\marsrover\core\Point.class
+me\katas\marsrover\core\instructions\Right.class
+me\katas\marsrover\core\instructions\Back.class
+me\katas\marsrover\utils\Checks.class
+me\katas\marsover\cli\LineParser.class
+me\katas\marsrover\core\instructions\Left.class
+me\katas\marsover\cli\PlateauParser.class
+me\katas\marsrover\core\instructions\Move.class
+me\katas\marsrover\core\Rover.class
+me\katas\marsover\cli\RoverParser.class
+me\katas\marsrover\core\Plateau.class
+me\katas\marsrover\core\Orientation.class
+me\katas\marsrover\core\instructions\Instruction.class
+me\katas\marsover\cli\Mission.class
+me\katas\marsover\cli\InstructionsParser.class

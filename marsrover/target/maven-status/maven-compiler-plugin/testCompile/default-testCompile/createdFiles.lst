@@ -1,0 +1,7 @@
+me\katas\marsover\cli\TestPlateauParser.class
+me\katas\marsrover\core\SampleTestWithCore.class
+me\katas\marsrover\core\RoverMovementTest.class
+me\katas\marsover\cli\TestRoverParser.class
+me\katas\marsover\cli\TestIInstructionsParser.class
+me\katas\marsover\cli\TestMission.class
+me\katas\marsrover\core\RoverMovementInPlateauTest.class
