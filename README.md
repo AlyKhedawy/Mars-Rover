@@ -6,7 +6,7 @@ points. The plateau is divided up into a grid to simplify navigation. An
 example position might be 0, 0, N, which means the rover is in the bottom
 left corner and facing North.
 
-In order to control a rover, NASA sends a simple string of letters. The
+In order to control a rover, SpaceX sends a simple string of letters. The
 possible letters are 'L', 'R' 'F'and 'B' . 'L' and 'R' makes the rover spin 90
 degrees left or right respectively, without moving from its current spot.
 'F' means move forward and 'B'means move backward one grid point, and maintain the same heading.
